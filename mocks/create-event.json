@@ -1,0 +1,8 @@
+{
+  "body": "{\"framework\":\"PCI\",\"version\":\"3\",\"description\":\"some descr\",\"attachment\":\"hello.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
